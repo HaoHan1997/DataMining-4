@@ -1,0 +1,18 @@
+{
+ "riverSize": {
+  "small": 71, 
+  "large": 45, 
+  "medium": 84
+ }, 
+ "season": {
+  "autumn": 40, 
+  "spring": 53, 
+  "winter": 62, 
+  "summer": 45
+ }, 
+ "riverSpeed": {
+  "high": 84, 
+  "medium": 83, 
+  "low": 33
+ }
+}
