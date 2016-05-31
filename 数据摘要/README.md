@@ -15,13 +15,13 @@
    
    依赖包：xlrd
   
-** 实现步骤 **
+**实现步骤**
  
-** 1. 把原始数据导入excel表格 **
+**1. 把原始数据导入excel表格**
    
        通过excel表格的“数据”-->“来自文本” 导入
 
-** 2. 利用python脚本实现数据摘要的获得 **
+**2. 利用python脚本实现数据摘要的获得**
 
         脚本为：statistics.py ，该脚本涉及到的关键函数如下：
 
@@ -31,7 +31,7 @@
    
         statistic(chemicalParameters,frequency)   #数值属性，给出最大、最小、均值、中位数、四分位数及缺失值的个数
 
-** 3. 统计结果保存为json数据 ** 
+**3. 统计结果保存为json数据** 
    
          
          nominalDataFrequency.json  是标称属性每个可能取值的频数统计结果
