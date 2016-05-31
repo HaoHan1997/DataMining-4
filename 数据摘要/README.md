@@ -34,9 +34,9 @@
 **3. 统计结果保存为json数据** 
    
          
-         nominalDataFrequency.json  是标称属性每个可能取值的频数统计结果
+  nominalDataFrequency.json  是标称属性每个可能取值的频数统计结果
 
-             其格式如下：
+   其格式如下：
 
          ```
             {
